@@ -125,3 +125,15 @@ button{
     display: flex;
     justify-content: space-around;
 }
+/*contact*/
+fieldset{
+    position: relative;
+    width: 40px;
+    background-color: whitesmoke;
+    margin-bottom: 1.5%;
+    margin-left: 600px;
+}
+button{
+    background-color: blue;
+    color: white;
+    margin-left: 40%;
