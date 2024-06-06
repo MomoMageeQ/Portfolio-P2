@@ -110,3 +110,18 @@ button{
     background-color: black;
     color: white;
 }
+/*competences*/
+.Competences{
+    background-color: red;
+    color: white;
+    width: 80%;
+    justify-content: center;
+    margin: auto;
+    padding: 30px;
+    border-radius: 200px;
+    text-align: center;
+}
+.flex{
+    display: flex;
+    justify-content: space-around;
+}
