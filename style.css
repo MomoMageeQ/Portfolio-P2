@@ -125,7 +125,7 @@ button{
     display: flex;
     justify-content: space-around;
 }
-/*contact*/
+/*Contact*/
 fieldset{
     position: relative;
     width: 40px;
@@ -137,3 +137,8 @@ button{
     background-color: blue;
     color: white;
     margin-left: 40%;
+}
+footer{
+    background-color: black;
+    color: white;
+}
