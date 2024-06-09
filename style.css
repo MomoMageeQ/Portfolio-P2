@@ -36,7 +36,7 @@ li a:hover{
     color: blue;
 }d:\portfolio promo
 .didi{
-    width: 9vh;
+    width: 5px;
 }
 .dingue{
     color: red;
@@ -195,11 +195,43 @@ form{
        font-weight: bold;
 }
 #center{
+    position: relative;
     text-align: center;
     font-weight: bold;
+    margin-top: 10px;
 }
 .numero{
     width: 5vh;
     margin-left: 200px;
     margin-top: 5px;
 }
+.gauche{
+    display: flex;
+    color: red;
+    margin-top: 25px;
+    font-weight: bold;
+}
+
+.droite{
+    text-align: right;
+    margin-right: 60px;
+    color: red;
+    font-weight: bold;
+
+}
+.marg{
+    display: flex;
+    position: relative;
+    margin-left: 170vh;
+    background-color: rgb(44, 30, 30);
+}
+.bouge{
+    width: 50px;
+    align-items: center;
+}
+.footer{
+    background-color:  rgb(44, 30, 30);
+    margin-top: 35px;
+}
+
+
